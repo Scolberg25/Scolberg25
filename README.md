@@ -19,3 +19,6 @@
 
 ## How to reach me?
 Enquiries: scolberg@proton.me
+
+## Support me
+<a href="https://www.buymeacoffee.com/scolberg">Buy me a chocolate</a>
