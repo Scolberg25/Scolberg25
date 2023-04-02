@@ -2,8 +2,10 @@
 
 <p align="center">I'm Sebastian, an amateur developer.</p>
 
+<p align="center">
   [![wakatime](https://wakatime.com/badge/user/f175f13d-3630-40ba-92dd-e97a5ac458ea.svg)](https://wakatime.com/@f175f13d-3630-40ba-92dd-e97a5ac458ea)
-
+</p>
+  
 ## Skills
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" /> HTML
 
