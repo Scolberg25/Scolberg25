@@ -11,7 +11,7 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" /> Javascript
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" /> Java
+<img width="20" src="https://imgs.search.brave.com/2j50YFjJJOwgM6E8rHNvPKIGx8psFjNN_DfRKRawjd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ4MDk3OWNlZjEw/MTRjMGI1ZTQ5MDEu/cG5n" /> Java
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
 
